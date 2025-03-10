@@ -54,35 +54,35 @@ body{
     font-size: 25px;
 }
 #box1{
-    background-image: url("https://plus.unsplash.com/premium_photo-1675826774815-35b8a48ddc2c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-1.avif");
     background-size: cover;
     grid-row: span 2;
 }
 #box2{
-    background-image: url("https://images.unsplash.com/photo-1484766280341-87861644c80d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-2.avif");
     background-size: cover;
     grid-column: span 2;
 }
 #box3{
-    background-image: url("https://images.unsplash.com/photo-1521579901924-af922689e163?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-3.avif");
     background-size: cover;
 }
 #box4{
-    background-image: url("https://images.unsplash.com/photo-1476673160081-cf065607f449?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-4.avif");
     background-size: cover;
     grid-row: span 2;
 }
 #box5{
-    background-image: url("https://images.unsplash.com/photo-1463097366893-15ebd10df5ff?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-5.avif");
     background-size: cover;
     grid-column: span 2;
 }
 #box6{
-    background-image: url("https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-6.avif");
     background-size: cover;
 }
 #box7{
-    background-image: url("https://images.unsplash.com/photo-1500622944204-b135684e99fd?q=80&w=2061&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("./web2image/image-7.avif");
     background-size: cover;
     grid-column: span 2;
 }
